@@ -1,7 +1,7 @@
 ---
 title: "Patrick Gray"
 draft: false
-image : images/speakers/patrick-gray.png
+image : images/speakers/patrick-gray.jpg
 type: "speaker"
 ---
 

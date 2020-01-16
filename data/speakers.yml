@@ -37,7 +37,7 @@ speaker :
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
-  - image : images/speakers/patrick-gray.png
+  - image : images/speakers/patrick-gray.jpg
     name : Patrick Gray
     jobTitle : "DevOps Engineer at NS1"
     detailsUrl : "/speakers/patrick-gray"
